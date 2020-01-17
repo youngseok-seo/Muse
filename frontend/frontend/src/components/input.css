@@ -1,0 +1,23 @@
+.input {
+    width: 300px;
+    height: 30px;
+    
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px;
+    font-size: 18px;
+    color: #160F29;
+
+    appearance: none;
+    border: none;
+    border-radius: 8px;
+    background: #8CBCB9;
+
+    padding: 8px;
+    margin: 10px;
+}
+
+.input:focus {
+    outline: none;
+}

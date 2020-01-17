@@ -1,0 +1,18 @@
+.logo {
+    display: flex;
+    flex-direction: row;
+
+    height: 100px;
+    width: 100%;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    color: #160F29;
+    align-items: center;
+
+    padding-left: 30px;
+    padding-top: 15px;
+
+    margin-bottom: 30px;
+}

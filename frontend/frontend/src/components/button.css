@@ -1,0 +1,30 @@
+.button {
+    height: 40px;
+    width: 120px;
+
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    font-size: 18px;
+    text-align: center;
+
+    color: #8CBCB9;
+    border: none;
+    background-color: #160F29;
+    border-radius: 8px;
+
+    transition: top 0.2s, box-shadow 0.2s, transform 0.4s;
+
+    padding: 8px;
+
+    margin: 10px;
+}
+
+.button:hover {
+    transform: scale(1.1);
+}
+
+.button:focus {
+    outline: none;
+}

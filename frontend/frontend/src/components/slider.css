@@ -1,0 +1,23 @@
+.slider {
+    
+    height: 100px;
+    margin: 20px;
+    width: 300px;
+}
+
+.slider .text{
+    font-family: Nunito;
+    font-style: normal;
+    color: #160F29;
+    font-weight: 600;
+    font-size: 18px;
+
+    margin-bottom: 10px;
+
+}
+/* @media (max-width: 300px) {
+    .slider{
+        width: 30%;
+    }
+} */
+
