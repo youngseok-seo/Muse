@@ -9,7 +9,7 @@ import Button from '../../components/Button';
 import Text from '../../components/Text';
 
 import Axios from 'axios';
-const apiurl = 'http://localhost:5000/';
+const apiurl = 'http://muse-lyrics-server.herokuapp.com/';
 
 const MainPage = () => {
 
